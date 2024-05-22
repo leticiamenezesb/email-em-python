@@ -1,4 +1,5 @@
 Projeto de Automação de Email em Python
+
 Bem-vindo ao projeto de automação de email em Python! Este projeto tem como objetivo enviar emails de forma automatizada, utilizando credenciais de email e anexando arquivos conforme necessário.
 
 Funcionalidades
